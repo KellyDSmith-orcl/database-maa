@@ -1,8 +1,8 @@
-# Recovery Under Fire: Survive AI-Powered Database Attacks with Recovery Service
+# Prove You Can Recover Under Attack: Hands-On with Recovery Service
 
 ## Introduction
 
-AI-powered attacks are making database threats faster, more targeted, and harder to contain. In this hands-on lab, learn how Oracle Zero Data Loss Autonomous Recovery Service helps protect mission-critical Oracle Databases and keep recovery options ready when an attack, outage, or operational mistake puts data at risk. You’ll configure protection, validate recoverability, explore cross-region recovery readiness, and walk through a guided recovery scenario designed to prove resilience under pressure. Leave with practical experience using Recovery Service to strengthen cyber resilience, reduce data loss exposure, and recover with greater confidence across OCI, multicloud, and on-premises environments.
+AI-powered attacks are making database threats faster, more targeted, and harder to contain. In this hands-on lab, learn how Oracle Zero Data Loss Autonomous Recovery Service helps protect mission-critical Oracle databases and keep recovery options ready when an attack, outage, or operational mistake puts data at risk. You’ll configure protection, validate recoverability, explore cross-region recovery readiness, and walk through a guided recovery scenario designed to prove resilience under pressure. Leave with practical experience using Recovery Service to strengthen cyber resilience, reduce data loss exposure, and recover with greater confidence across OCI, multicloud, and on-premises environments.
 
 
 Estimated Workshop Time: 90 minutes
